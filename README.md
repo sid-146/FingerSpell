@@ -1,5 +1,15 @@
 # FingerSpell
 
-##This is Anushka
+<-- comment: Add description @anushka We can use html tags in this file--><br>
 
-### This is Sudhanwa kaveeshwar from indore!!!!
+### Activity Diagram
+
+<img src="">
+
+### Use Case Diagram
+
+<img src=" ">
+
+### Class Diagram
+
+<img src=" ">
