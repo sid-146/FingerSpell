@@ -6,12 +6,12 @@
 
 ### Activity Diagram
 
-<img src="" width= 800 height= 500>
+<img src="img/ActivityDiagram.png" width= 400 height= 700>
 
 ### Use Case Diagram
 
-<img src=" " width= 800 height= 500>
+<img src="img/UseCaseDiagram.png"  width= 800 height= 500>
 
 ### Class Diagram
 
-<img src=" " width= 800 height= 500>
+<img src="img/DataFlowDiagram.png " width= 900 height= 400>
