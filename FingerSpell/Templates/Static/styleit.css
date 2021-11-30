@@ -1,0 +1,79 @@
+body {
+  background-image: url(img/deaf_studies.jpg);
+  background-repeat: no-repeat;
+  background-size: 170%;
+  margin: 0;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  display: block;
+  padding: 30px;
+  align-items: stretch;
+  justify-content: space-around;
+}
+
+li {
+  display: inline;
+}
+
+#quote {
+  padding-top: 10px;
+  overflow: hidden;
+}
+
+#head1 {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  color: black;
+  text-align: center;
+  font-size: 300%;
+  font-family: fantasy;
+  letter-spacing: 5px;
+  animation-name: caption-fade;
+  animation-duration: 2s;
+}
+
+@keyframes caption-fade {
+  0% {
+    opacity: 0;
+    left: 0;
+  }
+  50% {
+    opacity: 0.5;
+    left: 20;
+  }
+  100% {
+    opacity: 1;
+    left: 40%;
+  }
+}
+
+#head2 {
+  position: absolute;
+  top: 53%;
+  left: 45%;
+  color: black;
+  text-align: center;
+  font-size: 90%;
+  word-spacing: 2px;
+  animation-name: caption-fade1;
+  animation-duration: 2s;
+}
+
+@keyframes caption-fade1 {
+  0% {
+    opacity: 0;
+    left: 5;
+  }
+  50% {
+    opacity: 0.5;
+    left: 22.5;
+  }
+  100% {
+    opacity: 1;
+    left: 45%;
+  }
+}
