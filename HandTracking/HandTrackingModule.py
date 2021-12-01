@@ -81,9 +81,9 @@ while camera.isOpened():
 
         print("Fingers", cnt)
         cv2.imshow("output", drawing)
-        k = cv2.waitKey(10)
     except:
         pass
 
+        k = cv2.waitKey(10)
     if k == 27:  # press ESC to exit
         break
