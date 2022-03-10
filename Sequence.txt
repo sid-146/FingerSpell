@@ -1,7 +1,15 @@
-1 Collect Images COde
+1 Collect Images COde -> Done 
+1.1 Collect images 
+
+
+# Data Preprossessing
 2 Label Images using LabelImg
+
 3 Update Label map [ label map is the separate source of record for class annotations.]
+
 4 Train
+
 5 Update checkpoint
+
 6 Testing
 
