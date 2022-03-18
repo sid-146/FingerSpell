@@ -1,5 +1,5 @@
 1 Collect Images COde -> Done 
-1.1 Collect images -> In Progress
+1.1 Collect images
 
 
 # Data Preprossessing
