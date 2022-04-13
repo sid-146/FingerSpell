@@ -1,0 +1,103 @@
+/*body{ background-image: url(deaf_studies.jpg);*/
+  /*background-image:url(https://img.youtube.com/vi/ViWn-97GZQI/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin :0;
+  padding: 10px;
+}*/
+
+/*ul{
+  position: absolute;
+  list-style-type: none;
+  margin: 0;
+  display:inline-block;
+  padding-top:45px;
+  width:20px;
+  height: 20px
+  align-items: stretch;
+  justify-content: space-around;
+}
+*/
+#bg{
+  padding: 0;
+  margin: 0;
+}
+
+
+/*
+a:hover{
+  color: #ffffb3;
+  font-size: 20px;
+  letter-spacing: 10;
+
+}
+*/
+body{
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+}
+
+/*.nav_list{
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+ background-color: #ffffff;
+}
+*/
+
+
+#quote{
+  position: absolute;
+  font-size: 20px;
+  margin-left: 0;
+  overflow: hidden;
+}
+
+#head1{
+  position: absolute;
+  top: 40%;
+  left: 37%;
+  color: black;
+  text-shadow: 0 0 3px #ffffff, 0 0 5px #0000FF;
+  text-align: center;
+  font-size: 400%;
+  font-family:fantasy;
+  letter-spacing:5px;
+  animation-name: caption-fade;
+  animation-duration: 2s;
+}
+@keyframes caption-fade {
+  0% {opacity:0 ; left:0}
+  50% {opacity:0.5 ; left:20}
+  100% {opacity:1 ; left:37}
+
+}
+
+#head2{
+  position: absolute;
+  top: 53%;
+  left: 35%;
+  color: black;
+  text-shadow: 0 0 3px #ffffff; 0 0 5px #0000FF;
+  text-align: center;
+  font-size: 220%;
+  word-spacing: 2px;
+  animation-name: caption-fade1;
+  animation-duration: 4s;
+}
+@keyframes caption-fade1 {
+  0% {opacity:0 ; left:5;}
+  10% {opacity:0.1 ; left:8;}
+  20% {opacity:0.2 ; left:10;}
+  30% {opacity:0.3 ; left:15;}
+  40% {opacity:0.4 ; left:20;}
+  50% {opacity:0.5 ; left:22.5}
+  70% {opacity:0.6; left:25;}
+  80% {opacity:0.7 ; left:30;}
+  100% {opacity:0.8 ; left:35;}
+  /*90% {opacity:0.9 ; left:40;}
+  100% {opacity:1 ; left:43%}*/
+
+}
